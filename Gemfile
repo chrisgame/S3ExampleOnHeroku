@@ -4,6 +4,6 @@ gem "cucumber"
 gem "rspec"
 
 gem "sinatra"
-gem "right_aws"
 gem 'haml'
+gem 'right_aws'
 gem 'heroku'
