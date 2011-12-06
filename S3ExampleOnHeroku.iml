@@ -23,8 +23,10 @@
     <orderEntry type="library" scope="PROVIDED" name="haml (v3.1.4, RVM: ruby-1.9.2-p180 [s3onherokuexample-poc]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rspec (v2.7.0, RVM: ruby-1.9.2-p180 [s3onherokuexample-poc]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="cucumber (v1.1.0, RVM: ruby-1.9.2-p180 [s3onherokuexample-poc]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="right_http_connection (v1.3.0, RVM: ruby-1.9.2-p180 [s3onherokuexample-poc]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="heroku (v2.15.1, RVM: ruby-1.9.2-p180 [s3onherokuexample-poc]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="json (v1.6.1, RVM: ruby-1.9.2-p180 [s3onherokuexample-poc]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="right_aws (v3.0.0, RVM: ruby-1.9.2-p180 [s3onherokuexample-poc]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rspec-mocks (v2.7.0, RVM: ruby-1.9.2-p180 [s3onherokuexample-poc]) [gem]" level="application" />
   </component>
 </module>
