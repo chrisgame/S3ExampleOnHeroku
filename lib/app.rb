@@ -14,7 +14,6 @@ class S3Test < Sinatra::Base
   end
 
   get '/' do
-    puts 'Hit get on root'
     page = "<img src='http://s3.amazonaws.com/robbiebobbins/S3Test/test.jpg'/>"
     haml page
   end
