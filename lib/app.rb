@@ -3,9 +3,9 @@ require 'haml'
 require 'right_aws'
 
 class S3Test < Sinatra::Base
-  AWS_ACCESS_KEY = 'AKIAI3HDDHE7NJ2HWRQA'
-  AWS_SECRET_ACCESS_KEY = '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'
-  AWS_BUCKET = 'robbiebobbins'
+  AWS_ACCESS_KEY = ''
+  AWS_SECRET_ACCESS_KEY = ''
+  AWS_BUCKET = ''
 
   put '/' do
     s3 = RightAws::S3.new(AWS_ACCESS_KEY, AWS_SECRET_ACCESS_KEY)
